@@ -8,6 +8,6 @@
 #
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gustavo-tanques/)
 
-[![Typing SVG](https://raw.githubusercontent.com/gtanques/gtanques/a26ebd675d87d19c323d2d31ac6e0630d4b99ace/folder/svg/github-user-contribution.svg)]()
+[![Typing SVG](https://raw.githubusercontent.com/gtanques/gtanques/a26ebd675d87d19c323d2d31ac6e0630d4b99ace/folder/svg/github-user-contribution.svg)](https://github.com/Platane/snk)
 
 
