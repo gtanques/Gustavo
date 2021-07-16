@@ -10,6 +10,6 @@
 #
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gustavo-tanques/)
 
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="https://github.com/gtanques/gtanques/blob/main/folder/svg/github-user-contribution.svg"/>
+[![Typing SVG](https://raw.githubusercontent.com/gtanques/gtanques/a26ebd675d87d19c323d2d31ac6e0630d4b99ace/folder/svg/github-user-contribution.svg)]()
 
 
