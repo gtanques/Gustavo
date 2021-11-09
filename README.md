@@ -1,6 +1,6 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=gtanques) 
-### Olá <img class="emoji" alt="vulcan_salute" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f596.png">
+### `01001111 01101100 11100001` <img class="emoji" alt="vulcan_salute" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f596.png">
 
 
 ### Tecnologias e ferramentas:
